@@ -56,5 +56,12 @@
             <artifactId>spring-boot-configuration-processor</artifactId>
         </dependency>
 
+        <!--   引入model     -->
+        <dependency>
+            <groupId>com.soft1851</groupId>
+            <artifactId>soft-news-mode</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 </project>
